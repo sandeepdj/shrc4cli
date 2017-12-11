@@ -1,0 +1,10 @@
+.menubar li a{
+    text-transform: uppercase;
+}
+.menuColor{
+    background: -webkit-linear-gradient(45deg, #FF6D00 0%, #FF9800 100%);
+    background: linear-gradient(45deg, #FF6D00 0%, #FF9800 100%);
+}
+.navbar{
+    margin-bottom: 0px;
+}

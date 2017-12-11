@@ -1,0 +1,65 @@
+.header-color{
+    background-color: #FF9800;
+    
+}
+    font-family: 'Vollkorn', serif;
+.list{
+    padding: 0px;
+    position: relative;
+    float: left;
+    margin-bottom: 0px;
+    list-style-type: none;
+}
+
+.list li a{
+    color: #fff;
+}
+.relative{
+    position: relative;
+    float: left;  
+}
+.w100{
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+
+.header{
+    padding: 2px;
+}
+.header .list li{
+    float: left;
+}
+.social-icon{
+    background-color: #fff;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    border: 3px solid #d87b08;
+    padding: 2px;
+    transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+.social-icon a{
+    color: #ff8d00 ;
+}
+.social-icon:hover {
+    background-color: #d87b08;
+    border-color: #fff;
+   
+}
+.social-icon:hover a{
+    color: #fff;
+}
+.swamiji{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
